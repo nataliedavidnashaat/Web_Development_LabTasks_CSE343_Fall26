@@ -1,0 +1,2 @@
+Git-> C:\Program Files\Git
+ssh key -> c:\Users\DELL\.ssh
